@@ -1,1 +1,2 @@
-# book_flip_game
+# Notary
+Notary: A coding project for searching through text in javascript
